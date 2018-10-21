@@ -1,0 +1,8 @@
+<resources>
+    <string name="application">Sotirs Music</string>
+    <string name="song">  Song</string>
+    <string name="name">Name</string>
+    <string name="artist">Artist</string>
+    <string name="search">Search</string>
+    <string name="recommended">Recommended</string>
+</resources>

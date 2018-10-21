@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_music_1">5dp</dimen>
+    <dimen name="list_music_2">16dp</dimen>
+    <dimen name="list_music_3">20sp</dimen>
+    <dimen name="list_music_4">5dp</dimen>
+    <dimen name="list_music_5">5dp</dimen>
+    <dimen name="list_music_6">5dp</dimen>
+    <dimen name="list_music_7">-5dp</dimen>
+    <dimen name="list_music_8">10dp</dimen>
+    <dimen name="elements">16dp</dimen>
+    <dimen name="search_1">5dp</dimen>
+    <dimen name="elements_1">16dp</dimen>
+</resources>
